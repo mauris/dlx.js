@@ -1,0 +1,19 @@
+{
+  "name": "dlx",
+  "version": "1.0.0",
+  "description": "Dancing Links with Algorithm X implementation in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauris/dlx.js.git"
+  },
+  "author": "Sam Yong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauris/dlx.js/issues"
+  },
+  "homepage": "https://github.com/mauris/dlx.js#readme"
+}
